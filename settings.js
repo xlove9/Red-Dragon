@@ -29,8 +29,8 @@ global.doc5 = 'application/pdf'
 global.doc6 = 'application/vnd.android.package-archive'
 
 //owner v card
-global.vcardowner = ['+94776783153'] //ur owner number
-global.ownername = "😎Pasindu❯❯" //ur owner name
+global.vcardowner = ['+94717884174'] //ur owner number
+global.ownername = "😎帕辛杜❯❯" //ur owner name
 global.ytname = "" //ur yt chanel name
 global.socialm = "GitHub: prabhasha2006" //ur github or insta name
 global.location = "India, Mizoram, Aizawl" //ur location
@@ -42,19 +42,19 @@ global.dragonchat = "false"  // chat bot  "true" / "false" (200 auto replies in 
 
 global.callblock === "false" // call block "true" / "false" (CALL ගන්න අය block කිරීමට "true")
 
-global.owner = ['+94776783153']
-global.ownertag = '+94776783153' //ur tag number
-global.botname = '𝙍𝙀𝘿╺ 𝘿𝙍𝘼𝙂𝙊𝙉 - 𝘉𝘖𝘛' //ur bot name
+global.owner = ['+94717884174']
+global.ownertag = '+94717884174' //ur tag number
+global.botname = '帕辛杜' //ur bot name
 global.packname = "Bot Sticker" // sticker packname
-global.author = "𝙍𝙀𝘿╺ 𝘿𝙍𝘼𝙂𝙊𝙉" // sticker author
+global.author = "帕辛杜" // sticker author
 global.dragonemoji = '🧩' // Menu emoji
-global.footer = '[ ◉ ʀᴇᴅ-ᴅʀᴀɢᴏɴ-MD ]' //In list menu
+global.footer = '[ ◉ 帕辛杜-MD ]' //In list menu
 
 global.button = '☰ GITHUB ☰' //Costomize A Button Name In Alive Message
 global.btnurl = 'https://github.com/prabhasha2006' //Change Your Button's URL
 
 //damtabase
-global.premium = ['+94776783153'] //ur premium numbers
+global.premium = ['+94717884174'] //ur premium numbers
 global.ntilinkytvid = []
 global.ntilinkytch = []
 global.ntilinkig = []
