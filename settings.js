@@ -36,7 +36,7 @@ global.socialm = "GitHub: prabhasha2006" //ur github or insta name
 global.location = "India, Mizoram, Aizawl" //ur location
 
 //bot body 
-global.alivepic = `https://i.ibb.co/x7qYTrq/20220605-103944.jpg` // alive picture \\ use "https://ibb.com" to upload photos. < 1 MB
+global.alivepic = `https://i.ibb.co/cL2D0jy/Capture.png` // alive picture \\ use "https://ibb.com" to upload photos. < 1 MB
 
 global.dragonchat = "false"  // chat bot  "true" / "false" (200 auto replies in this)
 
@@ -50,8 +50,8 @@ global.author = "帕辛杜" // sticker author
 global.dragonemoji = '🧩' // Menu emoji
 global.footer = '[ ◉ 帕辛杜-MD ]' //In list menu
 
-global.button = '☰ GITHUB ☰' //Costomize A Button Name In Alive Message
-global.btnurl = 'https://github.com/prabhasha2006' //Change Your Button's URL
+global.button = '☰ 帕辛杜 ☰' //Costomize A Button Name In Alive Message
+global.btnurl = 'https://i.ibb.co/cL2D0jy/Capture.png' //Change Your Button's URL
 
 //damtabase
 global.premium = ['+94717884174'] //ur premium numbers
